@@ -2,5 +2,6 @@ public class Tester
 {
   public static void main() {
     System.out.println("Testing");
+    System.out.println("Testing2");
   }
 }
